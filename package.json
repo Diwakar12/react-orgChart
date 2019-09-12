@@ -1,0 +1,25 @@
+{
+  "name": "react-orgchart",
+  "version": "1.0.0",
+  "description": "orgchart for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Diwakar12/react-orgChart.git"
+  },
+  "keywords": [
+    "react-orgChart",
+    "orgChart",
+     "react",
+     "org chart"
+  ],
+  "author": "Devanshu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Diwakar12/react-orgChart/issues"
+  },
+  "homepage": "https://github.com/Diwakar12/react-orgChart#readme"
+}
